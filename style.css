@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+    padding: 27px 130px;
+}
+.main{
+    background: whitesmoke;
+}
+.nav__collection{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.img{
+    width: 120px;
+    height: 40px;
+}
+.banner{
+    display: block;
+    margin: auto;
+}
+.banner img{
+    width: 85%;
+    height: 700px;
+    display: block;
+    margin: auto;
+}
+.hd{
+    text-align: center;
+}
+.boxes{
+    display: flex;
+    justify-content:center;
+    gap: 40px;
+    align-items: center;
+}
+
+.box{
+    width: 550px;
+    height: 680px;
+    background: white;
+    border-radius: 20px;
+    
+}
+.box img{
+    width: 100%;
+    border-radius: 20px 20px 0 0 ;
+}
+.box h2{
+    padding: 0px 25px;
+    font-size: 30px;
+}
+.box p{
+    padding: 0px 25px;
+    font-size: 22px;
+    font-family:cursive;
+}
+.box h3{
+    padding: 0px 25px;
+    font-size: 25px;
+}
+.fuck{
+    text-align: center;
+}.bxs{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+
+}
+.bx{
+    width: 350px;
+    height: 600px;
+    background: white;
+    border-radius: 20px;
+}
+.bx img{
+    width: 100%;
+    border-radius: 20px 20px 0px 0px ;
+}
+.bx h2{
+    padding: 0px 25px;
+}
+.bx p{
+    padding: 0px 25px;
+}
+.b{
+    display: flex;
+    justify-content: center;
+}
+.bo{
+    width: 250px;
+    height: 250px;
+    background: white;
+    border-radius: 20px;
+    margin: 20px 20px 20px 20px;
+}
+.b img{
+    display: block;
+    padding: 35px 0px;
+    margin: auto;
+}
+.btn{
+    width: 300px;
+    height: 40px;
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
+.adono{
+    background: black;
+    height: 700px;
+    padding: 30px 10%;
+}
+
+.nav__collectio{
+    display: flex;
+
+}
+.ite{
+    color: white;
+    display: flex;
+}
+.bt{
+    background: black;
+    color: white;
+    border: 1px solid white;
+    padding: 15px 35px;
+    border-radius: 20px;
+    margin-left: 650px;
+
+}
